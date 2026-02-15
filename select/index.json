@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "飴色水彩",
+  "base_artist": "MiMi",
+  "createdAt": "2026-02-15T17:05:58.553408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "飴色水彩",
+      "artist": "MiMi",
+      "has_synced": true,
+      "path": "select/01_飴色水彩_MiMi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "飴色水彩",
+      "artist": "MiMi",
+      "has_synced": false,
+      "path": "select/pl_01_飴色水彩_MiMi.txt"
+    }
+  ]
+}
